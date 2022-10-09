@@ -1,4 +1,4 @@
-# Домашнее задание к лекции «Регулярные выражения» [![Build status](https://ci.appveyor.com/api/projects/status/53dm23mtwg21208b?svg=true)](https://ci.appveyor.com/project/bas27/fpyajs-regex2)
+# Домашнее задание к лекции «Регулярные выражения» [![Build status](https://ci.appveyor.com/api/projects/status/9nfo0mdk4266xdqj?svg=true)](https://ci.appveyor.com/project/bas27/fpyajs-regex2)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
